@@ -1,0 +1,52 @@
+.box{
+	width: 200px;
+	height: 100px;
+	background-color: darkred;
+	padding: 50px;
+	border: 5px solid #87yur6;
+	margin: 1px;
+	color: #f6fgf7;
+
+}
+.h1{
+
+	display: block ;
+    color: hotpink;
+
+}
+
+    
+
+.h2{
+
+	display: inline-block;
+	color: rgb(00, 00, 00);
+	
+}
+
+.h3{
+	display: inline;
+	color: brown;
+	
+}
+
+
+
+.red{
+	width:  170px;
+	height: 100px;
+	background-color: yellowgreen;
+	border: 5px solid darkred;
+	padding: 30px;
+	margin-top: 100px;
+	margin-right: 50px;
+	margin-bottom: 100px;
+	margin-left: 50px;
+}
+
+.green{
+	width: 100px;
+	height: 100px;
+	background-color: red;
+	margin: 140px 70px 35px 10px;
+}
